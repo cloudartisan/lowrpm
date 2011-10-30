@@ -1,0 +1,8 @@
+.autotest
+History.txt
+Manifest.txt
+README.txt
+Rakefile
+bin/lowrpm
+lib/lowrpm.rb
+test/test_lowrpm.rb
