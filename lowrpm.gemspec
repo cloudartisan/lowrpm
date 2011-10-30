@@ -8,8 +8,8 @@ Gem::Specification.new do |s|
   s.authors     = ["David Taylor"]
   s.email       = ["david@cloudartisan.com"]
   s.homepage    = ""
-  s.summary     = %q{TODO: Write a gem summary}
-  s.description = %q{TODO: Write a gem description}
+  s.summary     = %q{Inspect your application performance}
+  s.description = %q{Use lowrpm and New Relic to profile your application}
 
   s.rubyforge_project = "lowrpm"
 
