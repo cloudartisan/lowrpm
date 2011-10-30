@@ -4,7 +4,6 @@ require 'lowrpm/version'
 
 
 module LowRpm
-  VERSION = '1.0.0'
 
   def initialize(api_key, application_name)
     NewRelicApi.api_key = api_key
