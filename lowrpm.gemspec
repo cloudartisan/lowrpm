@@ -7,7 +7,7 @@ Gem::Specification.new do |s|
   s.version     = Lowrpm::VERSION
   s.authors     = ["David Taylor"]
   s.email       = ["david@cloudartisan.com"]
-  s.homepage    = ""
+  s.homepage    = "http://lowrpm.github.com"
   s.summary     = %q{Inspect your application performance}
   s.description = %q{Use lowrpm and New Relic to profile your application}
 
