@@ -19,4 +19,5 @@ Gem::Specification.new do |s|
   s.require_paths = ["lib"]
 
   s.add_dependency "newrelic_rpm", ">= 3.2.0"
+  s.add_development_dependency "rspec", ">= 2.7.0"
 end
