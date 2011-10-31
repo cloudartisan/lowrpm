@@ -3,7 +3,7 @@ require 'new_relic_api'
 require 'lowrpm/version'
 
 
-module LowRpm
+module Lowrpm
 
   def initialize(api_key, application_name)
     NewRelicApi.api_key = api_key
