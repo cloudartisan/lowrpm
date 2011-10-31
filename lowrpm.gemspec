@@ -19,6 +19,7 @@ Gem::Specification.new do |s|
   s.require_paths = ["lib"]
 
   s.add_dependency "thor"
+  s.add_dependency "activeresource"
   s.add_dependency "newrelic_api"
   s.add_development_dependency "rspec"
 end
